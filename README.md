@@ -75,6 +75,7 @@ Built an interactive dashboard in Excel/Power BI featuring:
 - Treemap
 - Map Visualization
 - KPI Cards
+---
 
 ## 🔄 Workflow Summary
 - Imported dataset into Excel
@@ -84,6 +85,7 @@ Built an interactive dashboard in Excel/Power BI featuring:
 - Designed dashboard layout
 - Added slicers for interactivity
 - Finalized healthcare insights report
+---
 
 ## Key Insights
 
@@ -129,6 +131,17 @@ Breakdown shows:
 - Died: 158
 - Lost to follow-up: 152
 Completion rates are highest, but failure and mortality remain concerning.
+---
 
 ## Dashboard![Dashboard](https://github.com/user-attachments/assets/d68645dd-b7a9-43da-928f-c64dfd66533f)
+
+## 🧾 Conclusion
+This Tuberculosis Patient Dashboard provides critical insights into TB prevalence, patient risk factors, and treatment effectiveness.
+### Key conclusions include:
+TB heavily affects young adults and older populations.
+Drug-sensitive TB is most common, but resistant strains require attention.
+Treatment completion rates are encouraging but offset by failure and death cases.
+Symptoms like weight loss and chest pain are dominant early indicators.
+Geographic hotspots highlight where healthcare interventions should be intensified.
+Overall, the dashboard demonstrates how data analytics can support public health decision-making, optimize treatment monitoring, and improve disease control strategies.
 
