@@ -12,3 +12,24 @@ The goal is to support healthcare stakeholders in:
 
 ## Dataset Used
 - <a href="https://github.com/solution8118/Tuberculosis-Patient-Dashboard/blob/main/TB_Patients_Nigeria_Sample.xlsx">Dataset</a>
+
+### Dataset Summary:
+
+- Total Patients: 1,000
+
+- Average Treatment Duration: 10.7 months
+
+- Coverage: Multiple states in Nigeria
+
+#### Variables include:
+- Gender
+- Age Group
+- HIV Status
+- Smoking Status
+- Symptoms
+- Drug Resistance Type
+-Treatment Outcome
+- Treatment Duration
+---
+
+##  Questions (KPIs)
