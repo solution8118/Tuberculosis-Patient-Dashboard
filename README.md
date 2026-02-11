@@ -33,3 +33,17 @@ The goal is to support healthcare stakeholders in:
 ---
 
 ##  Questions (KPIs)
+The dashboard answers the following key healthcare questions:
+- What is the total number of TB patients?
+- What is the average treatment duration?
+- How are patients distributed across states?
+- Which symptoms are most common?
+- What age groups are most affected?
+- What is the gender distribution of patients?
+- How many patients are smokers vs non-smokers?
+- What percentage of TB patients are HIV positive?
+- What types of drug resistance are recorded?
+- What are the treatment outcomes?
+- How long does treatment typically last by month category?
+---
+- Dashboard Interaction <a href= "https://github.com/solution8118/Tuberculosis-Patient-Dashboard/blob/main/Dashboard.jpeg">View Dasboard</a>
