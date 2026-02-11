@@ -47,3 +47,85 @@ The dashboard answers the following key healthcare questions:
 - How long does treatment typically last by month category?
 ---
 - Dashboard Interaction <a href= "https://github.com/solution8118/Tuberculosis-Patient-Dashboard/blob/main/Dashboard.jpeg">View Dasboard</a>
+---
+## Project Process
+### 1. Data Collection
+
+The TB dataset was obtained in Excel format containing patient medical and demographic records.
+
+### 2. Data Cleaning
+Performed in Excel:
+- Removed duplicates
+- Standardized state names
+- Cleaned categorical fields (Gender, HIV status, Smokers)
+- Checked missing values
+- Formatted treatment duration fields
+
+### 3. Data Transformation
+- Grouped patients by age brackets
+- Categorized symptoms
+- Aggregated treatment outcomes
+- Calculated averages and totals
+
+### 4. Data Visualization
+Built an interactive dashboard in Excel/Power BI featuring:
+- Pie Charts
+- Bar Charts
+- Donut Charts
+- Treemap
+- Map Visualization
+- KPI Cards
+
+## 🔄 Workflow Summary
+- Imported dataset into Excel
+- Cleaned and validated records
+- Created pivot tables
+- Built calculated metrics (KPIs)
+- Designed dashboard layout
+- Added slicers for interactivity
+- Finalized healthcare insights report
+
+## Key Insights
+
+### 🧑‍🤝‍🧑 Patient Demographics
+Male and female patients are nearly evenly distributed.
+The most affected age group is 15–24, followed closely by 65–74 and 45–54.
+
+### 🗺️ Geographic Distribution
+TB cases are spread across multiple states.
+States like Kaduna, Kano, Lagos, and Rivers show higher patient concentrations.
+
+### 🦠 HIV & Smoking Risk Factors
+A notable portion of TB patients are HIV positive, confirming comorbidity risk.
+Majority of patients are non-smokers, though smokers remain a significant minority risk group.
+
+### 🤒 Symptoms Analysis
+Most reported symptoms include:
+- Weight Loss
+- Chest Pain
+- Persistent Cough
+- Fever
+- Fatigue
+- Night Sweats
+- Weight loss and chest pain appear among the most frequent indicators.
+
+### 💊 Drug Resistance
+Most patients are drug sensitive.
+Smaller portions show:
+- MDR (Multi-Drug Resistant)
+- XDR (Extensively Drug Resistant)
+This indicates resistance exists but is not dominant.
+
+### ⏳ Treatment Duration
+The highest treatment volume occurs around 6 months.
+Patient counts decline as treatment duration increases to 24 months.
+
+### ✅ Treatment Outcomes
+Breakdown shows:
+- Completed: 185
+- Failed: 175
+- Ongoing: 171
+- Cured: 159
+- Died: 158
+- Lost to follow-up: 152
+Completion rates are highest, but failure and mortality remain concerning.
