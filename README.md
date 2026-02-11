@@ -10,3 +10,5 @@ The goal is to support healthcare stakeholders in:
 -	Improving public health interventions
 ---
 
+## Dataset Used
+- <a href="https://github.com/solution8118/Tuberculosis-Patient-Dashboard/blob/main/TB_Patients_Nigeria_Sample.xlsx">Dataset</a>
